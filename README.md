@@ -5,10 +5,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ömer</h1>
 <h3 align="center">High School Student | Future Software Developer | Web Developer</h3>
 <p align="center">
-<a href="https://www.omerdduran.com"><img src="https://img.shields.io/badge/-omerdduran.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contact@omerdduran.com"><img src="https://img.shields.io/badge/-contact@omerdduran.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/omerdduran"><img src="https://img.shields.io/badge/-@omerdduran-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/omerdduran"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+"/></a>
+<a href="https://instagram.com/omerdduran"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+"/></a>
+<a href="https://instagram.com/omerdduran"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+"/></a>
 </p>
 
 - 📫 How to reach me **contact@omerdduran.com**
@@ -17,12 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="omerdduran" height="30" width="40" /></a>
+<a href="https://codepen.io/omerdduran" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="omerdduran" height="30" width="40" /></a>
 <a href="https://twitter.com/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="omerdduran" height="30" width="40" /></a>
 
 <a href="https://codesandbox.com/omerdduran" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="omerdduran" height="30" width="40" /></a>
 <a href="https://fb.com/omerddduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="omerddduran" height="30" width="40" /></a>
 <a href="https://instagram.com/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="omerdduran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omerdduran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omerdduran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omerdduran" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/omerdduran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="omerdduran" height="30" width="40" /></a>
 </p>
 
