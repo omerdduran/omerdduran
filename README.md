@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ömer Duran</h1>
-<h3 align="center">A high school student trying to be a software developer</h3>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ömer</h1>
+<h3 align="center">High School Student | Future Software Developer | Web Developer</h3>
+<p align="center">
+<a href="https://www.omerdduran.com"><img src="https://img.shields.io/badge/-omerdduran.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contact@omerdduran.com"><img src="https://img.shields.io/badge/-contact@omerdduran.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/omerdduran"><img src="https://img.shields.io/badge/-@omerdduran-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerdduran&label=Profile%20views&color=0e75b6&style=flat" alt="omerdduran" /> </p>
 
