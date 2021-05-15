@@ -11,10 +11,6 @@
 <a href="https://instagram.com/omerdduran"><img src="https://img.shields.io/badge/-@omerdduran-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omerdduran&label=Profile%20views&color=0e75b6&style=flat" alt="omerdduran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omerdduran" alt="omerdduran" /></a> </p>
-
 - 📫 How to reach me **contact@omerdduran.com**
 
 - ⚡ Fun fact **I love cats!**
