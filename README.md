@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.hizliresim.com/4ilfwh2" height="200"/>
+  <img src="https://i.hizliresim.com/4ilfwh2.png" height="200"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ömer</h1>
