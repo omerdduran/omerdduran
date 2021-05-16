@@ -20,6 +20,7 @@
 - ⚡ Fun fact **I love cats!**
 
 <h3 align="left">Languages and Tools:</h3>
+<p>
 <img scr="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img scr="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white">
 <img scr="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
@@ -31,6 +32,7 @@
 <img scr="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 <img scr="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 <br> <br> <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdduran&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
