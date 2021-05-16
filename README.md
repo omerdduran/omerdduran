@@ -11,6 +11,7 @@
 <a href="https://www.facebook.com/omerddduran/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.reddit.com/user/omerdduran"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 <a href="https://open.spotify.com/user/ngm0x0g4vj8dxuh9bz9h9arjz"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+![](https://komarev.com/ghpvc/?username=omerdduran&color=green)  
 </p>
 
 
