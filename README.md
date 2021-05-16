@@ -34,11 +34,12 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Atom](http://img.shields.io/badge/-Atom-0078D6?style=flat-square&logo=atom&logoColor=88bda1)
-![Android](http://img.shields.io/badge/-Android-5B4638?style=flat-square&logo=android)
 <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?&style=for-the-badge&logo=adobexd&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
 
 
 
