@@ -34,7 +34,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Atom](http://img.shields.io/badge/-Atom-0078D6?style=flat-square&logo=atom&logoColor=88bda1)
-![Android](http://img.shields.io/badge/-Android-5B4638?style=flat-square&logo=android&logoColor=ffffff)
+![Android](http://img.shields.io/badge/-Android-5B4638?style=flat-square&logo=android)
 
 <br/>
 
