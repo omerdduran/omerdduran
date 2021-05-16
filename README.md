@@ -37,7 +37,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
-
+![](https://komarev.com/ghpvc/?username=omerdduran&color=green)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
