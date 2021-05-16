@@ -38,7 +38,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=omerdduran&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=omerdduran&color=blueviolet)
 
 <br> <br> <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerdduran&theme=radical)
