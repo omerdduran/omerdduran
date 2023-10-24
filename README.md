@@ -15,7 +15,7 @@
 </p>
 
 
-- 📫 How to reach me **contact@omerdduran.com**
+- 📫 How to reach me **me@omerduran.dev**
 
 - ⚡ Fun fact **I love cats!**
 
