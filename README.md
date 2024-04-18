@@ -20,8 +20,10 @@
 📫 Reach me at **me@omerduran.dev**.
 
 ### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
+🔴 Utopia | By Thomas More
+20 August 2023 
+⭐ 5.0
 
 ### Connect with Me
 
