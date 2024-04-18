@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://www.omerduran.dev/works](https://www.omerduran.dev/works)
+- 👨‍💻 All of my projects are available at [omerduran.dev/works](https://www.omerduran.dev/works)
 
-- 📝 I regularly write articles on [https://www.omerduran.dev/booknotes](https://www.omerduran.dev/booknotes)
+- 📝 I regularly write articles on [omerduran.dev/booknotes](https://www.omerduran.dev/booknotes)
 
 - 📫 How to reach me **me@omerduran.dev**
 
