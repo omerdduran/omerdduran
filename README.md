@@ -83,6 +83,5 @@
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=omerdduran&show_icons=true&locale=en" alt="omerdduran" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerdduran&" alt="omerdduran" />
 </p>
