@@ -85,3 +85,6 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerdduran&" alt="omerdduran" />
 </p>
+
+<a href="https://github.com/omerdduran">
+  <img alt="Furkan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=omerdduran&theme=github-compact&hide_border=true" /></a>
