@@ -9,14 +9,6 @@
 
 ### About Me
 
-🔭 I’m currently working on a **Twitter-like Project** using modern web technologies.
-
-🌱 I’m actively learning **Java** to expand my backend development skills.
-
-👨‍💻 Explore my projects at [omerduran.dev/works](https://www.omerduran.dev/works).
-
-📝 I regularly write articles and share insights on [omerduran.dev/booknotes](https://www.omerduran.dev/booknotes).
-
 📫 Reach me at **me@omerduran.dev**.
 
 ### Recent Blog Posts
