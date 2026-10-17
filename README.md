@@ -1,2 +1,2 @@
 How to reach me:
-- hi [at] omerduran [dot] dev
+- omerdev.ninetieth479 [at] passmail [dot] com
